@@ -9,4 +9,4 @@ trap on_error ERR
 ls /test 2>&1
 ls /opt 2>&1
 
-
+echo -e "test test"
